@@ -1,6 +1,6 @@
 README
 ====
-该文件用来练习书写README的各种markdown语法。
+该文件用来练习书写README的一些markdown语法。
 ----
 # 一级标题（大标题）  
 ## 二级标题 （中标题）
